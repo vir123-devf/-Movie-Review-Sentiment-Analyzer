@@ -1,4 +1,3 @@
-```markdown
 # 🎬 Movie Review Sentiment Analyzer  
 
 This project is a **Movie Review Sentiment Analysis App** built with **TensorFlow, Keras, and Streamlit**.  
@@ -108,7 +107,4 @@ Here’s how the app looks in action:
 * [GitHub](https://github.com/vir123-devf)
 * [LinkedIn](https://www.linkedin.com/in/virendra-badgotya-ai/)
 
----
 
-```
-```
